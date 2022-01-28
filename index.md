@@ -21,7 +21,7 @@ Z23550757
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Chase` text
 
 [Link](url) and ![Image](src)
 ```
